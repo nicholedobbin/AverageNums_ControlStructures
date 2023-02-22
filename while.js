@@ -6,7 +6,7 @@ let numberList = [];
 // Repeatedly prompt for input until condition is met and store inputted numbers in array.
 while (userInput != -1) { 
     numberList.push(userInput);  
-    userInput = Number(prompt("Enter another number: "));
+    userInput = Number(prompt("Enter another number (or enter -1 to stop and get the average of the numbers you entered):"));
 }
 
 // Calculate average of numbers in array and output result to console and alert.
