@@ -2,8 +2,7 @@
 ### **IFSL1T07 - Beginner Control Structures — Loops**
 
 ## **Description**
-This program uses while loops to repeatedly prompts the user to enter any number, stores the inputted numbers in an array, and stops prompting when the user enters '-1'. It outputs the average of these numbers (excluding -1) to the console and as an alert.
-
+This program uses while loops to repeatedly prompt the user to enter any number, store the inputted numbers in an array, and stop prompting when the user enters '-1'. It outputs the average of these numbers (excluding -1) to the console and as an alert.
 <br>
 
 ## **Installation and Setup**
